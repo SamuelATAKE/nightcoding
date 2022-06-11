@@ -1,1 +1,2 @@
 Ceci est notre fichier de test pour l'utilisation du Git
+Nousallons aussi tester GitHub.
