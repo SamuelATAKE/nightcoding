@@ -1,2 +1,2 @@
 Ceci est notre fichier de test pour l'utilisation du Git
-Nousallons aussi tester GitHub.
+Nous allons aussi tester GitHub.
